@@ -1,0 +1,22 @@
+body{
+    background-color:
+     rgb(176, 127, 255);}
+table, th, td {
+    border:1px solid black;
+    border-collapse: collapse;}
+img {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;}
+h2{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;}
+h3{
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;}
