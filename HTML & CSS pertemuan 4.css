@@ -1,6 +1,6 @@
 body{
     background-color:
-    violet;}
+    plum;}
 table, th, td {
     border:1px solid black;
     border-collapse: collapse;}
@@ -22,7 +22,7 @@ h3{
     font-size: x-large;}
 nav {
     display: block;
-    background-color: violet;
+    background-color: plum;
     overflow: hidden;
     text-shadow: 1px 1px 1px black;
     border-radius: 5px;
@@ -39,7 +39,7 @@ nav a {
     }
     
     nav a:hover {
-        background-color: violet;
+        background-color: plum;
         color: pink;
     }
     
