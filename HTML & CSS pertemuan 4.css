@@ -1,6 +1,6 @@
 body{
     background-color:
-    plum;}
+    peachpuff;}
 table, th, td {
     border:1px solid black;
     border-collapse: collapse;}
@@ -22,7 +22,7 @@ h3{
     font-size: x-large;}
 nav {
     display: block;
-    background-color: plum;
+    background-color: peachpuff;
     overflow: hidden;
     text-shadow: 1px 1px 1px black;
     border-radius: 5px;
@@ -31,7 +31,7 @@ nav {
     
 nav a {
     float: left;
-    color: pink;
+    color: peachpuff;
     padding: 15px 20px;
     text-decoration: none;
     border: 0.5px solid black;
@@ -39,8 +39,8 @@ nav a {
     }
     
     nav a:hover {
-        background-color: plum;
-        color: pink;
+        background-color: peachpuff;
+        color: black;
     }
     
     ul {
